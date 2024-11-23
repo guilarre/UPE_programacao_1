@@ -1,0 +1,20 @@
+Fusca,10000.0,1976,mau estado
+Uno Mille,12000.0,2005,conservado
+Polo,60000.0,2016,seminovo
+Tucson,57900.0,2014,conservado
+Ferrari Portofino,2590000.0,2019,seminovo
+Celta,36000.0,2013,conservado
+Ka,16000.0,2013,seminovo
+Fiesta,19000.0,2011,conservado
+Gol,58000.0,2022,seminovo
+Hilux,130000.0,2015,mau estado
+Crossfox,43000.0,2011,conservado
+Kicks,130000.0,2023,seminovo
+Corolla,108000.0,2018,conservado
+Civic,121000.0,2021,conservado
+Palio,44000.0,2015,conservado
+Chevette,15000.0,1982,mau estado
+Punto,38000.0,2014,conservado
+Camaro,650000.0,2023,novo
+Sienna,789000.0,2024,novo
+Strada,77000.0,2023,seminovo
