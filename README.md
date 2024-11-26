@@ -3,7 +3,7 @@
 ---
 > Professor: Augusto Cesar Oliveira ([@augustocesarfmo](https://github.com/augustocesarfmo))
 
-> Alunos: Guilherme Raposo G. de M. Larré ([@guilarre](https://github.com/guilarre)) e José Hugo Rodrigues de Souza ()
+> Alunos: Guilherme Raposo G. de M. Larré ([@guilarre](https://github.com/guilarre)) e José Hugo Rodrigues de Souza ([@JHugoRodrigues](https://github.com/JHugoRodrigues))
 ---
 Nosso projeto é um sistema de estoque para uma empresa fictícia que vende carros. Nele, é possível:
 - Cadastrar carros em um arquivo no computador (especificando o nome do carro, preço, ano de fabricação e estado de conservação);
